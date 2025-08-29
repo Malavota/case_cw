@@ -1,0 +1,1 @@
+"{\n    \"new_question\": \"TEXT: Briefly describe what the whiskers in a box plot indicate.\",\n    \"correct_answer\": \"They show the spread of data outside the box (outside the interquartile range), typically extending to the smallest and largest observations within 1.5 × IQR of Q1 and Q3; points beyond those limits are shown as outliers.\"\n}"

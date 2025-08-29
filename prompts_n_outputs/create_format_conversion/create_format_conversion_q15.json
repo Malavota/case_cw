@@ -1,0 +1,1 @@
+"{\n    \"new_question\": \"TEXT: In pandas, what method do you call on a DataFrame to remove duplicate rows? Provide the method name only.\",\n    \"correct_answer\": \"drop_duplicates\"\n}"

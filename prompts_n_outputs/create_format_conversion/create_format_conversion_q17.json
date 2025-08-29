@@ -1,0 +1,1 @@
+"{\n    \"new_question\": \"TEXT: In matplotlib, which function do you call to plot a histogram of a dataset? (Answer in one word or a short phrase)\",\n    \"correct_answer\": \"matplotlib.pyplot.hist\"\n}"

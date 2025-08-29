@@ -1,0 +1,1 @@
+"{\n  \"new_question\": \"<TEXT> In a box plot, what does the box represent? Provide a brief explanation.\",\n  \"correct_answer\": \"The box represents the interquartile range (IQR), spanning from the first quartile (Q1) to the third quartile (Q3) and thus showing the middle 50% of the data; the line inside the box indicates the median.\"\n}"

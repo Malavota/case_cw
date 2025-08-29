@@ -1,0 +1,1 @@
+"{\n    \"new_question\": \"TEXT: Identify the type of machine learning task: predicting customer lifetime value (a continuous monetary amount) from past purchase behavior, demographics, and engagement metrics.\",\n    \"correct_answer\": \"Regression (supervised learning)\"\n}"

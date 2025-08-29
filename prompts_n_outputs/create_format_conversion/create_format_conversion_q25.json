@@ -1,0 +1,1 @@
+"{\n  \"new_question\": \"TEXT: In one sentence, describe what df.shape returns in pandas.\",\n  \"correct_answer\": \"A tuple giving the number of rows and columns in the DataFrame, e.g. (n_rows, n_columns).\"\n}"

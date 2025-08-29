@@ -1,0 +1,1 @@
+"{\n    \"new_question\": \"Which of the following pandas functions can read CSV files? (Select all that apply.)\",\n    \"new_options\": \"A. pd.read_csv\\nB. pandas.read_table\\nC. pd.read_excel\\nD. pd.read_json\",\n    \"new_correct_answer\": [\"A\", \"B\"],\n    \"reasoning\": \"pd.read_csv reads CSV; read_table can read CSV when given sep=',' or appropriate delimiter.\"\n}"

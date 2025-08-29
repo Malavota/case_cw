@@ -1,0 +1,1 @@
+"{\n    \"new_question\": \"<TEXT> Briefly name the NumPy function used to compute the standard deviation of a numeric array.\",\n    \"correct_answer\": \"np.std (or numpy.std)\"\n}"

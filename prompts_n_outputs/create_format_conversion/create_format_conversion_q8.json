@@ -1,0 +1,1 @@
+"{\n  \"new_question\": \"TEXT: Two website variants show conversion rates of 2.1% and 2.8%. Which statistical test would you use to determine if the difference in conversion rates is statistically significant? (Answer in one sentence.)\",\n  \"correct_answer\": \"Two-proportion z-test (two-sample z-test for proportions)\"\n}"

@@ -1,0 +1,1 @@
+"{\n    \"predicted level\": 1,\n    \"new question\": \"Explain why approximately 68% of values in a normal distribution fall within one standard deviation of the mean, and what this indicates about the distribution's variability.\",\n    \"new level\": 2,\n    \"new options\": \"['95%', '68%', '99.7%', '50%']\",\n    \"new correct option\": \"b\"\n}"

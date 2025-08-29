@@ -1,0 +1,1 @@
+"{\n    \"predicted level\": 1,\n    \"new question\": \"Explain the purpose of the matplotlib function 'hist()' and describe a situation in data visualization where it is the appropriate choice.\",\n    \"new level\": 2,\n    \"new options\": \"['plot()', 'bar()', 'hist()', 'scatter()']\",\n    \"new correct option\": \"c\"\n}"

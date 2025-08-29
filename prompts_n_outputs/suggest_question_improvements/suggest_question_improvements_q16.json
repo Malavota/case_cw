@@ -1,0 +1,1 @@
+"{\n    \"predicted level\": 1,\n    \"new question\": \"Given that your sales data shows a spike every December, identify which type of time-series pattern this represents and briefly explain your reasoning.\",\n    \"new level\": 2,\n    \"new options\": \"['Trend', 'Seasonality', 'Cyclical', 'Random variation']\",\n    \"new correct option\": \"b\"\n}"

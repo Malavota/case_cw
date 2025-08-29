@@ -1,0 +1,1 @@
+"{\n    \"predicted level\": 1,\n    \"new question\": \"For the dataset [1, 1, 2, 3, 100], calculate the mean and the median, then identify which measure of central tendency best represents the typical values and explain your reasoning.\",\n    \"new level\": 3,\n    \"new options\": \"['Mean', 'Median', 'Mode', 'Range']\",\n    \"new correct option\": \"b\"\n}"
